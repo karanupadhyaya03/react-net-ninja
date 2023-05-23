@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Learning React from Net Ninja
+#### Playlist - https://youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+#### Channel - https://www.youtube.com/@NetNinja
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
